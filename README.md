@@ -1,6 +1,6 @@
-# :robot: Assignment Title 
+# :robot: Utilizing Colabs
 
-## 🤓 Overview and learning outcomes 
+## 🤓 In this breif assignment, you will learn how to use a form of Jupyter Notebooks called Google Colaboratory.  This will cover the basics about how to use Jupyter Notebooks with the built in Python environment. 
 
 The goal of this lab assignment... 🚀
 
