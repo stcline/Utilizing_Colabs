@@ -15,32 +15,3 @@ The goal of this lab assignment is to help you connect Colabs to your GitHub acc
 2. Click the Open in Colab button.
 3. Read through the document and test out the Python code blocks.
 4. When you feel comfortable with the process, make a file here called "Observations.md" and explain, in your own words what Jupyter Notebooks are.
-5. Check out the resources below for many great ideas on how to use this new idea.
-
-## 📚  Resources 
-
-### Working with Notebooks in Colab
-
-- [Overview of Colaboratory](/notebooks/basic_features_overview.ipynb)
-- [Guide to Markdown](/notebooks/markdown_guide.ipynb)
-- [Importing libraries and installing dependencies](/notebooks/snippets/importing_libraries.ipynb)
-- [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
-- [Interactive forms](/notebooks/forms.ipynb)
-- [Interactive widgets](/notebooks/widgets.ipynb)
-
-### Working with Data
-
-- [Loading data: Drive, Sheets, and Google Cloud Storage](/notebooks/io.ipynb) 
-- [Charts: visualizing data](/notebooks/charts.ipynb)
-- [Getting started with BigQuery](/notebooks/bigquery.ipynb)
-
-### Machine Learning Crash Course
-
-These are a few of the notebooks from Google's online Machine Learning course. See the [full course website](https://developers.google.com/machine-learning/crash-course/) for more.
-- [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
-- [Linear regression with tf.keras using synthetic data](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/linear_regression_with_synthetic_data.ipynb)
-
-### Using Accelerated Hardware
-
-- [TensorFlow with GPUs](/notebooks/gpu.ipynb)
-- [TensorFlow with TPUs](/notebooks/tpu.ipynb)
