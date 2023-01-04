@@ -14,7 +14,8 @@ The goal of this lab assignment is to help you connect Colabs to your GitHub acc
 1. Open the file here titled, "Introduction_to_Notebooks.ipynb".  
 2. Click the Open in Colab button.
 3. Read through the document and test out the Python code blocks.
-4. When you feel comfortable with the process, 
+4. When you feel comfortable with the process, make a file here called "Observations.md" and explain, in your own words what Jupyter Notebooks are.
+5. Check out the resources below for many great ideas on how to use this new idea.
 
 ## 📚  Resources 
 
